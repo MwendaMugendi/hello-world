@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello fellow bots,
+
+The world surely a beautiful place!
